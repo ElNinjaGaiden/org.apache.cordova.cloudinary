@@ -1,0 +1,32 @@
+{
+    "name": "org.apache.cordova.cloudinary",
+    "version": "1.0.0",
+    "description": "Cordova Plugin to access cloudinary services",
+    "cordova": {
+      "id": "org.apache.cordova.cloudinary",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ElNinjaGaiden/org.apache.cordova.cloudinary"
+    },
+    "keywords": [
+      "cordova",
+      "cloudinary",
+      "store",
+      "itunes",
+      "play",
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios"
+    ],
+    "author": "ElNinjaGaiden",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ElNinjaGaiden/org.apache.cordova.cloudinary/issues"
+    },
+    "homepage": "https://github.com/ElNinjaGaiden/org.apache.cordova.cloudinary#readme"
+  }
